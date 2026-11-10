@@ -1,0 +1,67 @@
+:root {
+  --vp-c-bg: #fffdf7;
+  --vp-c-bg-alt: #f5f2e9;
+  --vp-c-bg-elv: #fffdf7;
+  --vp-c-bg-soft: #edf1e8;
+  --vp-c-text-1: #18231a;
+  --vp-c-text-2: #435247;
+  --vp-c-text-3: #677369;
+  --vp-c-brand-1: #174b2a;
+  --vp-c-brand-2: #27633b;
+  --vp-c-brand-3: #3b7a4d;
+  --vp-c-brand-soft: rgba(23, 75, 42, 0.14);
+  --vp-font-family-base: Calibri, Candara, "Segoe UI", Arial, sans-serif;
+  --vp-font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}
+
+body {
+  background: var(--vp-c-bg);
+}
+
+.VPNav {
+  border-bottom: 1px solid #d8ded3;
+}
+
+.VPNavBarTitle .title {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+}
+
+.VPNavBarMenuLink {
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 999px;
+  color: var(--vp-c-brand-1) !important;
+  padding: 0.35rem 0.85rem;
+}
+
+.VPNavBarMenuLink:hover {
+  background: var(--vp-c-brand-1);
+  color: #fffdf7 !important;
+}
+
+.VPSidebar {
+  border-right: 1px solid #d8ded3;
+}
+
+.VPDocAsideOutline .outline-link.active,
+.VPDocAsideOutline .outline-link:hover,
+.VPSidebarItem.is-active > .item .link {
+  color: var(--vp-c-brand-1);
+}
+
+.VPButton.brand {
+  background-color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+}
+
+.VPButton.brand:hover {
+  background-color: var(--vp-c-brand-2);
+  border-color: var(--vp-c-brand-2);
+}
+
+.home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 2rem 0;
+}
