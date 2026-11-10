@@ -44,7 +44,7 @@ export default defineConfig({
       label: 'On this page'
     },
     footer: {
-      message: '<a href="https://shreek3724.github.io/IS218-003-Review-1-Plan-Portfolio/">Portfolio Planning, Research & Documentation</a>',
+      message: '<a href="https://shreek3724.github.io/IS218-003-Review-1-Plan-Portfolio/" target="_blank" rel="noopener noreferrer">Portfolio Planning, Research & Documentation</a>',
       copyright: 'Course planning project'
     }
   }
