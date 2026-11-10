@@ -30,6 +30,11 @@
 
 Players act as an art conservator solving a deductive matrix puzzle to determine the correct chemical solvent sequence needed to remove dirt layers without destroying the underlying historical painting.
 
+### i. Main Gameplay Loop
+After onboarding, in a regular gameplay loop, players will be given an old looking painting in a frame on the left side of their screen, with their solvents and materials on the bottom of the right side, with a clue about how to clear the layer with the items, on the top-side of the right side of the screen. By using the clue, players will mix together the correct amount of each solvent, with the correct tool in a tray on the right side next to the items, then apply it to the places on the Canvas that they think is correct, to remove a layer of grime. 
+Players continue this untill all the layers have been removed and the final painting is revealed.
+
+
 ### ii. Mechanics Overview
 
 Players do the swabbing, and mixing of components themselves as they work through the painting restoration process. Each painting has multiple layers, and each layer has its own mechanic, and the restoration strategy only applies to specific areas of that layer- going out of that area damages the painting, however they also have to figure that out based on clues. At the end, players can see their past restorations on their dashboard, and see their progress.
@@ -54,6 +59,8 @@ Players do the swabbing, and mixing of components themselves as they work throug
 ### vii. Engagement
 
 This game with engage both casual and competitive players by involving logic, and introducing them to a new field of work they may never have heard of, or may never get the chance to do, engaging them in a new world. The game combines arts, precision, and critical thinking skills, while teaching a new field.
+
+This game is different from many others because it poses a new spin on logic games. It creates intrinsic motivation by having players increase their own abilities and solving statistics over time, and a gallery of all they have accomplished. The game is unique because Art Convervation is very niche, and small field that most will never get to work on in the real world, and many do not know about. The game introduces these concepts and provides a unique learning and interactive opportunity. Players also learn about real-life techniques, making the knowledge valuable and unique. Players get to try a new field, in a calming, engaging, and relaxing manner.  
 
 ---
 
