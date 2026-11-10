@@ -1,9 +1,24 @@
 # Creative Game: Research, Planning & Documentation — Project Record
 
 ## Quick Links & Repository Trackers
-- **GitHub Repository:** [Insert Repository Link Here]
-- **Live Documentation Website (VitePress):** [Insert Live Site Link Here]
-- **Active GitHub Issue / Classmate Review Task:** [Insert Active Issue Link Here]
+- **GitHub Repository:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game
+- **Live Documentation Website (VitePress):** https://shreek3724.github.io/IS218-Review-1-Plan-Creative-Game/
+- **Issues:**
+Issue 1: Initialize VitePress Site: https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/issues/1
+
+
+Issue 2: Add Add “Research” pages/tabs: https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/issues/2
+
+
+Issue 3: Step 3: Add “Expanding ideas” pages/tabs: https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/issues/3
+
+
+Issue 4: Step 4: Add “Documentation & Record” pages/tabs: https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/issues/4
+
+- **Classmate Review Task:**
+
+- **Projec Record MD File Link:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/blob/main/project_record.md
+
 - **Latest Pull Request / Check Link:** [Insert PR / Check Link Here]
 
 ### Canvas Submission Log (Changed / Checked / Next)
