@@ -31,12 +31,11 @@ https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/issues/6
 
 - **Project Record MD File Link:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/blob/main/project_record.md
 
-- **Latest Pull Request / Check Link:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/actions/runs/42762778829
 
 ### Canvas Submission Log (Changed / Checked / Next)
-- **Changed:** Completed and deployed the VitePress documentation, planning, and research website with Home, Research, Expanding Ideas, and Documentation & Record sections.
+- **Changed:** Completed and deployed the VitePress documentation, planning, and research website with Home, Research, Expanding Ideas, and Documentation & Record sections, updated to fix feedback changes on issues 5 and 6.
 - **Checked:** Updated the project Node.js/npm runtime, ran local VitePress production builds, verified generated routes, confirmed GitHub Actions deployments, and route-checked all live pages for HTTP 200 responses.
-- **Next:** Implement feedback changes and then build the first slice.
+- **Next:** Build the first slice.
 
 ---
 
