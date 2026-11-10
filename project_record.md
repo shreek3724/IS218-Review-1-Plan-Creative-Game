@@ -3,7 +3,9 @@
 ## Quick Links & Repository Trackers
 - **GitHub Repository:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game
 - **Live Documentation Website (VitePress):** https://shreek3724.github.io/IS218-Review-1-Plan-Creative-Game/
+
 - **Issues:**
+
 Issue 1: Initialize VitePress Site: https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/issues/1
 
 
@@ -17,14 +19,14 @@ Issue 4: Step 4: Add “Documentation & Record” pages/tabs: https://github.com
 
 - **Classmate Review Task:**
 
-- **Projec Record MD File Link:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/blob/main/project_record.md
+- **Project Record MD File Link:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/blob/main/project_record.md
 
-- **Latest Pull Request / Check Link:** [Insert PR / Check Link Here]
+- **Latest Pull Request / Check Link:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game/actions/runs/42762778829
 
 ### Canvas Submission Log (Changed / Checked / Next)
-- **Changed:** Initialized the VitePress documentation shell, shared navigation, visual theme, and GitHub Pages deployment workflow.
-- **Checked:** Reviewed the generated structure and configuration with static validation. Local VitePress build is pending because Node.js/npm is unavailable in this workspace.
-- **Next:** Build slice 2: add the Research pages and source content.
+- **Changed:** Completed and deployed the VitePress documentation, planning, and research website with Home, Research, Expanding Ideas, and Documentation & Record sections.
+- **Checked:** Updated the project Node.js/npm runtime, ran local VitePress production builds, verified generated routes, confirmed GitHub Actions deployments, and route-checked all live pages for HTTP 200 responses.
+- **Next:** Implement feedback changes and then build the first slice.
 
 ---
 
@@ -88,4 +90,4 @@ Specify how exactly you want the website to be designed and what information per
 | Date | Category | Summary of Changes Made | Checks & Verification Performed | Status / Next Immediate Action |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-11-09 | Initial Plan | Created `spec.md`, `project-record.md`, and `codex-instructions.md` | Verified local markdown formatting | Proceed with Step 1 VitePress site scaffolding |
-| 2026-11-09 | Step 1 — VitePress Setup | Added VitePress configuration, home page, navigation shell, visual theme, and GitHub Pages Actions workflow | Ran `git diff --check`; local site build pending because Node.js/npm is not installed in the workspace | Proceed with Step 2 Research pages |
+| 2026-11-09 | Set up documentation, planning, and research website | Created and deployed the VitePress home page, navigation, dark-green minimalist theme, Research pages, Expanding Ideas pages, Documentation & Record page, and GitHub Pages workflow. | Updated the Node.js/npm runtime; ran local VitePress production builds; verified generated routes; confirmed GitHub Actions deployments; and route-checked all live pages for HTTP 200 responses. | Implement feedback changes and then build the first slice. |
