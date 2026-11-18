@@ -14,6 +14,21 @@
 - [Step 5 / Phase 5 - Issue #5](https://github.com/shreek3724/IS218CreativeGameSlice2/issues/5)
 - [PEER FEEDBACK - Game tutorial / mixture application feedback - Issue #6](https://github.com/shreek3724/IS218CreativeGameSlice2/issues/6)
 
+### Personal Game Decisions
+
+- Add a five-step **How to Play!** pop-up that players dismiss with **X** before playing.
+- Move painting integrity above the canvas. Place the **Current note** and always-visible cell-and-tool reminder above the tools.
+- Give each solvent an independent **0–100%** slider. Cap the combined mixture at **100%** and show the amount remaining or a maximum-total message.
+- Run the full test suite before pushing gameplay changes. Track peer feedback in **issue #6** and link the live game, repositories, and project record.
+
+### Decisions Made with AI Help & Consulting
+
+- Build **Golden Valley** as a single-player, untimed restoration puzzle with a **4×4 grid** and three layers cleared in order. Give players clues for the solvent mix, tool, and treatment area.
+- Reduce integrity for wrong moves without changing the artwork. Weight the final score **60% integrity** and **40% clue deduction**.
+- Use **Home, Game, and Results** screens, support keyboard play, and let players download the restored painting as a PNG.
+- Deploy the static **SvelteKit** game on **GitHub Pages** with simulated sign-in and session-only results.
+- Use a native modal for the tutorial and a shared handler to keep sliders and numeric fields synchronized. Test the full restoration flow and verify the deployed changes at mobile width.
+
 ## Quick Links & Repository Trackers
 - **GitHub Repository:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game
 - **Live Documentation Website (VitePress):** https://shreek3724.github.io/IS218-Review-1-Plan-Creative-Game/
@@ -114,3 +129,4 @@ Specify how exactly you want the website to be designed and what information per
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-11-09 | Initial Plan | Created `spec.md`, `project-record.md`, and `codex-instructions.md` | Verified local markdown formatting | Proceed with Step 1 VitePress site scaffolding |
 | 2026-11-09 | Set up documentation, planning, and research website | Created and deployed the VitePress home page, navigation, dark-green minimalist theme, Research pages, Expanding Ideas pages, Documentation & Record page, and GitHub Pages workflow. | Updated the Node.js/npm runtime; ran local VitePress production builds; verified generated routes; confirmed GitHub Actions deployments; and route-checked all live pages for HTTP 200 responses. | Implement feedback changes and then build the first slice. |
+| 2026-11-18 | Game development documentation | Added personal and AI-assisted decisions for the playable slice and feedback updates. | Verified section placement, Markdown formatting, and the match to the agreed decision lists. | Complete |
