@@ -35,7 +35,15 @@ export default defineConfig({
       {
         text: 'Documentation & Record',
         items: [
-          { text: 'Project Record', link: '/record/' }
+          {
+            text: 'Project Record',
+            link: '/record/',
+            items: [
+              { text: 'Project Change & Verification Log', link: '/record/#project-change-verification-log' },
+              { text: 'Game Slice Development', link: '/record/#game-creative-slice-development-quick-links-repository-trackers' },
+              { text: 'Initial Website Development Record', link: '/record/#quick-links-repository-trackers' }
+            ]
+          }
         ]
       }
     ],
