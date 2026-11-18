@@ -1,5 +1,19 @@
 # Creative Game: Research, Planning & Documentation — Project Record
 
+## Game Creative Slice Development - Quick Links & Repository Trackers
+
+- [Game development repository](https://github.com/shreek3724/IS218CreativeGameSlice2)
+- [Play Art Conservator](https://shreek3724.github.io/IS218CreativeGameSlice2/)
+
+### Game development issues
+
+- [Step 1 - Issue #1](https://github.com/shreek3724/IS218CreativeGameSlice2/issues/1)
+- [Step 2 / Phase 2 - Issue #2](https://github.com/shreek3724/IS218CreativeGameSlice2/issues/2)
+- [Phase 3 - Issue #3](https://github.com/shreek3724/IS218CreativeGameSlice2/issues/3)
+- [Step 4 / Phase 4 - Issue #4](https://github.com/shreek3724/IS218CreativeGameSlice2/issues/4)
+- [Step 5 / Phase 5 - Issue #5](https://github.com/shreek3724/IS218CreativeGameSlice2/issues/5)
+- [PEER FEEDBACK - Game tutorial / mixture application feedback - Issue #6](https://github.com/shreek3724/IS218CreativeGameSlice2/issues/6)
+
 ## Quick Links & Repository Trackers
 - **GitHub Repository:** https://github.com/shreek3724/IS218-Review-1-Plan-Creative-Game
 - **Live Documentation Website (VitePress):** https://shreek3724.github.io/IS218-Review-1-Plan-Creative-Game/
