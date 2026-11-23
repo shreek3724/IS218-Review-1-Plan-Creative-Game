@@ -44,7 +44,9 @@ export default defineConfig({
               { text: 'Initial Website Development Record', link: '/record/#quick-links-repository-trackers' }
             ]
           },
-          { text: 'Game Slice Spec', link: '/record/game-slice-spec' }
+          { text: 'Game Slice Spec', link: '/record/game-slice-spec' },
+          { text: 'Game Slice Submission Spec', link: '/record/game-slice-submission-spec' },
+          { text: 'Game Slice Spec V2', link: '/record/game-slice-spec-v2' }
         ]
       }
     ],
