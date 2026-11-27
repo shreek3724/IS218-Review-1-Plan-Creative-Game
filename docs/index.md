@@ -20,3 +20,8 @@ hero:
 ## Project workspace
 
 Use the left navigation to explore the project's research, planning, technical architecture, and progress record. Each page will keep its headings available in the right-side page navigation.
+
+## Integrated Game Build
+
+- [Play the Integrated Game](https://shreek3724.github.io/IS218IntegratedGame/)
+- [Integrated Game Repository](https://github.com/shreek3724/IS218IntegratedGame)

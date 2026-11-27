@@ -1,5 +1,10 @@
 # Creative Game: Research, Planning & Documentation — Project Record
 
+## Integrated Game Build
+
+- [Play the Integrated Game](https://shreek3724.github.io/IS218IntegratedGame/)
+- [Integrated Game Repository](https://github.com/shreek3724/IS218IntegratedGame)
+
 ## Game Creative Slice Development - Quick Links & Repository Trackers
 
 - [Game development repository](https://github.com/shreek3724/IS218CreativeGameSlice2)
@@ -131,3 +136,4 @@ Specify how exactly you want the website to be designed and what information per
 | 2026-11-09 | Set up documentation, planning, and research website | Created and deployed the VitePress home page, navigation, dark-green minimalist theme, Research pages, Expanding Ideas pages, Documentation & Record page, and GitHub Pages workflow. | Updated the Node.js/npm runtime; ran local VitePress production builds; verified generated routes; confirmed GitHub Actions deployments; and route-checked all live pages for HTTP 200 responses. | Implement feedback changes and then build the first slice. |
 | 2026-11-18 | Game development documentation | Added personal and AI-assisted decisions for the playable slice and feedback updates. | Verified section placement, Markdown formatting, and the match to the agreed decision lists. | Plan and Build integrated build |
 | 2026-11-23 | Submission spec & Personal Reference Submission spec | Documented gameplay updates, four user stories with checks, technology choices, privacy, and proposed analytics. All former spec items still apply. This was mostly documentation changes. | Verified the story checks against existing tests. Formatting and diff checks passed. | Pushed both specs and closed issue #7. Next, publish the submission spec on the documentation site and request partner review. |
+| 2026-11-27 | Integrated game build | Added links to the playable integrated build and its GitHub repository in the project record and on the documentation site. | Verified both links in the generated homepage and record page. | — |
